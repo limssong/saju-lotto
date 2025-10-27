@@ -1,9 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import SajuCalculator from '@/components/SajuCalculator'
-import SajuDisplay from '@/components/SajuDisplay'
-import LottoRecommendation from '@/components/LottoRecommendation'
+import SajuCalculator from '../components/SajuCalculator'
+import SajuDisplay from '../components/SajuDisplay'
+import LottoRecommendation from '../components/LottoRecommendation'
 
 interface BirthInfo {
   gender: 'male' | 'female'

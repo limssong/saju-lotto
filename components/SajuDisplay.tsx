@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { calculateSaju } from '@/utils/sajuCalculator'
+import { calculateSaju } from '../utils/sajuCalculator'
 
 interface BirthInfo {
   gender: 'male' | 'female'

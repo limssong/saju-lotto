@@ -1,6 +1,6 @@
 'use client'
 
-import { generateLottoNumbers } from '@/utils/lottoGenerator'
+import { generateLottoNumbers } from '../utils/lottoGenerator'
 
 interface BirthInfo {
   gender: 'male' | 'female'
