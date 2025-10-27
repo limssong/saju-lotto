@@ -1,6 +1,8 @@
 # 사주로또 - 사주팔자와 로또번호 추천
 
-사주팔자를 보고 로또번호를 추천받는 웹사이트입니다.^^
+사주팔자를 보고 로또번호를 추천받는 웹사이트입니다.
+
+🌐 **라이브 사이트**: https://limssong.github.io/saju-lotto/
 
 ## 기능
 
@@ -33,11 +35,11 @@ npm start
 
 ## 배포
 
-이 프로젝트는 Vercel을 통해 자동 배포됩니다.
+이 프로젝트는 GitHub Pages를 통해 자동 배포됩니다.
 
 1. GitHub에 코드 푸시
-2. Vercel에서 GitHub 저장소 연결
-3. 자동 배포 완료
+2. GitHub Actions가 자동으로 빌드 및 배포
+3. https://limssong.github.io/saju-lotto/ 에서 확인 가능
 
 ## 프로젝트 구조
 
