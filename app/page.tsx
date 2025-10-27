@@ -42,7 +42,7 @@ export default function Home() {
               className={`tab ${activeTab === 'lotto' ? 'active' : ''}`}
               onClick={() => setActiveTab('lotto')}
             >
-              로또번호 추천!!
+              로또번호 추천
             </button>
           </div>
 
